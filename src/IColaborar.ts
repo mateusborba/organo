@@ -3,4 +3,5 @@ export interface IColaborador {
   nome: string;
   imagem: string;
   time?: string;
+  teste?: string;
 }
